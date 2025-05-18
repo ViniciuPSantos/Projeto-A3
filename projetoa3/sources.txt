@@ -1,0 +1,6 @@
+C:\Users\vipau\Documents\projetoa3\src\Main.java
+C:\Users\vipau\Documents\projetoa3\src\dao\UsuarioDAO.java
+C:\Users\vipau\Documents\projetoa3\src\db\DBConnector.java
+C:\Users\vipau\Documents\projetoa3\src\util\HashUtil.java
+C:\Users\vipau\Documents\projetoa3\src\view\TelaCadastro.java
+C:\Users\vipau\Documents\projetoa3\src\view\TelaLogin.java
